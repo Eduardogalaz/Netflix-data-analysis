@@ -29,6 +29,3 @@ Este proyecto realiza un análisis exploratorio del catálogo de Netflix para id
 - **Optimización del catálogo**: Ajuste en la proporción de películas y series según el engagement del usuario.  
 - **Estrategia de expansión**: Identificación de oportunidades de inversión en contenido original en mercados emergentes.  
 - **Personalización y recomendaciones**: Uso de patrones de duración y tipo de contenido para mejorar las sugerencias a los usuarios.  
-
-## Contacto  
-Si tienes interés en explorar más análisis de datos aplicados a la industria del entretenimiento, puedes conectarte conmigo.  
